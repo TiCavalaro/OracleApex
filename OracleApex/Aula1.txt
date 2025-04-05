@@ -1,0 +1,19 @@
+O que é uma aplicação web?
+	Uma aplicação WEB é um software que funciona no navegador, sem precisar ser instalado no computador. As aplicações web são hospedadas em servidores na internet.
+
+
+
+O que é Oracle APEX?
+	Oracle APEX é uma plataforma de desenvolvimento de aplicativos que permite criar aplicações para WEB e dispositivos móveis.
+
+
+
+
+Principais recursos (Para que serve):
+	Criação de gráficos
+	Personalização de interfaces de usuário
+	Tradução de textos
+	Filtros inteligentes
+	Catálogos de serviço REST
+	Aplicativos web progressivos
+	permite que desenvolvedores profissionais e cidadãos criem aplicações sofisticadas que funcionam em qualquer dispositivo com um navegador da Web moderno
