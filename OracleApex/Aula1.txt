@@ -17,3 +17,16 @@ Principais recursos (Para que serve):
 	Catálogos de serviço REST
 	Aplicativos web progressivos
 	permite que desenvolvedores profissionais e cidadãos criem aplicações sofisticadas que funcionam em qualquer dispositivo com um navegador da Web moderno
+
+
+Font Awesome:
+Font Awesome é uma biblioteca de ícones baseada em fontes que permite adicionar ícones vetoriais personalizáveis a aplicações web usando HTML e CSS.
+
+Breadcrumb:
+Breadcrumb é uma trilha de navegação que mostra ao usuário sua localização dentro da hierarquia de páginas de um site, permitindo voltar facilmente para seções anteriores.
+
+Tela “Normal” no APEX:
+É uma página comum que carrega completamente quando acessada, geralmente usada para relatórios, formulários ou páginas principais.
+
+Tela “Modal” no APEX:
+É uma página que aparece como uma janela sobre a tela atual (pop-up interno), sem recarregar a página inteira, ideal para edições rápidas ou visualização de detalhes.
